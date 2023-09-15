@@ -43,7 +43,7 @@ The key results reported in Table II of the paper are presented as follows.
         <td rowspan="2"> CR </td> 
         <td rowspan="2"> Method </td> 
         <td colspan="3"> NMSE(dB) </td> 
-        <td rowspan="2"> Checkpoint path <td>
+        <td rowspan="2"> Checkpoint path </td>
    </tr>
     <tr>
   		  <td> C </td>
