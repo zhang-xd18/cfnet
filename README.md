@@ -1,5 +1,5 @@
 ## Overview
-This is a PyTorch implementation for the paper [Continuous Online Learning-based CSI Feedback in Massive MIMO Systems](https://arxiv.org), which has been submitted to the IEEE for possible publication. The catastrophic forgetting problem in DL-based CSI feedback is first discussed in this paper. The test script and trained models are listed here and the key results can be reproduced as a validation of our work.
+This is a PyTorch implementation for the paper [Continuous Online Learning-based CSI Feedback in Massive MIMO Systems](https://ieeexplore.ieee.org/document/10381825). The catastrophic forgetting problem in DL-based CSI feedback is first discussed in this paper. The test script and trained models are listed here and the key results can be reproduced as a validation of our work.
 
 ## Requirements
 
